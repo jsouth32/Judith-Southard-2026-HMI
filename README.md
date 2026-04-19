@@ -1,18 +1,20 @@
 Repository for HMI7540
 
 # PostOp Pal
+** Empowering post-surgical recovery for every patient!**
 
 ## Description
-Post-Op Pal is an app designed to be utilized by patients or caregivers to assist in their rehabilitative recovery from orthopedic surgeries at home. :
+Post-Op Pal is an app designed to be utilized by patients or caregivers to assist in their rehabilitative recovery from orthopedic surgeries at home. 
 
-* Allow patient or caregiver to choose the surgery type such as a joint replacement or hip fracture
-* Guide and progress a home exercise program
-* General post-op care instructions and reminders
-* Safety warnings for precautions such as movements to avoid
+## Key Features:
+
+** Individualized Phase-Based recovery:** Allows user to choose the surgery type and progress exercise protocols based on their post-operative timeline
+* Safety warnings for movement precautions based on surgery
+* Care reminders for general post-op care instructions including pain modalities
 * Fall reduction checklist
 <br><br>
 
-## Table of Contents
+## Getting Started
   * [Installation](#installation)
   * [Usage](#usage)
   * [Technologies Used](#technologies_used)
@@ -26,7 +28,7 @@ https://github.com/jsouth32/Judith-Southard-2026-HMI.git
 ## Usage
 To run the app locally, use the command:
 ~~~
-????
+TBD
 ~~~
 
 <br>
