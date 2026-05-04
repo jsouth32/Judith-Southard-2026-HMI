@@ -83,7 +83,7 @@ print(f"\nEnter Surgery Date:")
 y, m, d = int(input("Year: ")), int(input("Month: ")), int(input("Day: "))
 surg_date = datetime.date(y, m, d)
 
-# --- RECOVERY LOGIC ---
+# bundle all user input into recovery status
 app = PostOpPal(surg_date, approach_input, side, selected_surgery)
 status = app.get_recovery_status()
 
