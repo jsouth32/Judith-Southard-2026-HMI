@@ -23,5 +23,7 @@ https://github.com/jsouth32/Judith-Southard-2026-HMI.git
 <br>
 
 ## Technologies Used
-* Python
-* GitHub
+* Python and Visual Studio Code - writing the code
+* GitHub - to store and update project
+* ChatGPT - to check and assist with python code
+* LucidChart - to create initial flowdiagram
