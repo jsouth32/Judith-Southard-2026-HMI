@@ -14,22 +14,12 @@ Post-Op Pal is an app designed to be utilized by patients or caregivers to assis
 <br><br>
 
 ## Getting Started
-  * [Installation](#installation)
-  * [MORE TO COME](#More To Come)
-  * [Technologies Used](#technologies_used)
+  * Open the Python file and run it!
 <br><br>  
 
 ## Installation
 This repository can be found in github:
 https://github.com/jsouth32/Judith-Southard-2026-HMI.git 
-<br>
-
-## More To Come
-To run the app locally, use the command:
-~~~
-TBD
-~~~
-
 <br>
 
 ## Technologies Used
